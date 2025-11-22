@@ -1,1 +1,1 @@
-# Cryptic-auto-submitter
+#ML INTERNSHIP PROJECT DETAILS
